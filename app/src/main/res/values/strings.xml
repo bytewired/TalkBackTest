@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Accessibility Test</string>
+    <string name="text1">Android is a mobile operating system based on a modified version of the Linux kernel and other open-source software, designed primarily for touchscreen mobile devices such as smartphones and tablets.</string>
+    <string name="text2">Android has historically been developed by a consortium of developers known as the Open Handset Alliance, but its most widely used version is primarily developed by Google. It was unveiled in November 2007, with the first commercial Android device, the HTC Dream, being launched in September 2008.</string>
+    <string name="text3">It was unveiled in November 2007, with the first commercial Android device, the HTC Dream, being launched in September 2008.</string>
+    <string name="continue_button">Continue</string>
+</resources>
